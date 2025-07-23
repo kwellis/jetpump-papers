@@ -4,9 +4,10 @@ The following is an area to host literature written by Kaelin Ellis on jet pumps
 ### Links to Papers
 
 - **Univ. of Alaska Fairbanks Masters Project, April 2025**
-  - [UAF ScholarWorks](https://scholarworks.alaska.edu/)  
-  - [Github PDF](ellis_spe_paper.pdf)
+  - [UAF ScholarWorks](https://scholarworks.alaska.edu/)
+  - [Github PDF](ellis_masters_project.pdf)
+
 
  - **Society of Petroleum Engineers Paper, April 2025**
    - [OnePetro](https://doi.org/10.2118/224132-MS)
-   - [Github PDF](ellis_masters_project.pdf)
+   - [Github PDF](ellis_spe_paper.pdf)
