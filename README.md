@@ -11,3 +11,8 @@ The following is an area to host literature written by Kaelin Ellis on jet pumps
  - **Society of Petroleum Engineers Paper, April 2025**
    - [OnePetro](https://doi.org/10.2118/224132-MS)
    - [Github PDF](ellis_spe_paper.pdf)
+
+## Jiao PhD Dataset   
+Biaohua Jiao completed his Phd dissertation in 1988 at Tulsa University with the development of a two phase jet pump model. During his doctorate he collected data on jet pumps with an air and water mixture. The dataset is shown below as the original scanned PDF and an excel file that was created with OCR from the PDF.   
+- [Dataset PDF](jiao_phd_dataset.pdf)
+- [Dataset Excel](jiao_phd_dataset.xlsx)
